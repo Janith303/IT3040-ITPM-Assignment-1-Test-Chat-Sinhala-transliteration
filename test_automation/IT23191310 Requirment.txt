@@ -1,0 +1,8 @@
+1) Install prerequisites (one-time)
+ - Install Python 3.11/3.12
+ - Install Google Chrome (recommended) or let Playwright install Chromium
+
+2) Install the required dependencies (one-time)
+•pip install -U pip
+• pip install playwright openpyxl
+• playwright install
